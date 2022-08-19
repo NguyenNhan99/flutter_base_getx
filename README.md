@@ -79,5 +79,5 @@ Project mẫu đã có set up sẵn một service kiểm tra internet connection
     flutter build ios --flavor staging -t lib/main.staging.dart
     flutter build ios --flavor product -t lib/main.producttion.dart
 
-# config flavor
+# Config flavor
 https://github.com/vanle57/flutter-flavor/blob/main/README.md
