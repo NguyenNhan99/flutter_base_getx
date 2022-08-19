@@ -72,10 +72,10 @@ Project mẫu đã có set up sẵn một service kiểm tra internet connection
 # build
     flutter run --flavor staging -t lib/main.staging.dart
     flutter run --flavor product -t lib/main.producttion.dart
-#android
+# android
     flutter build apk --flavor staging -t lib/main.staging.dart
     flutter build apk --flavor product -t lib/main.producttion.dart
-#ios
+# ios
     flutter build ios --flavor staging -t lib/main.staging.dart
     flutter build ios --flavor product -t lib/main.producttion.dart
 
