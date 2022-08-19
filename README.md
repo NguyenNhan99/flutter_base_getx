@@ -69,13 +69,13 @@ Project mẫu đã có set up sẵn một service kiểm tra internet connection
        });
 ```
 
-# build
+# Build
     flutter run --flavor staging -t lib/main.staging.dart
     flutter run --flavor product -t lib/main.producttion.dart
-# android
+# ANDROID
     flutter build apk --flavor staging -t lib/main.staging.dart
     flutter build apk --flavor product -t lib/main.producttion.dart
-# ios
+# IOS
     flutter build ios --flavor staging -t lib/main.staging.dart
     flutter build ios --flavor product -t lib/main.producttion.dart
 
